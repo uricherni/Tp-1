@@ -1,0 +1,16 @@
+.body {
+    background-color: #F06447;
+    padding: 0 1rem;
+    margin: 1rem;
+}
+
+form {
+    background-color: #F6AD9E;
+    border: 1px solid #ccc;
+    padding: 0 1rem;
+    margin: 1rem;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
